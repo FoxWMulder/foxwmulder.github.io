@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "PAGE-TITLE"
-permalink: /URL-PATH
+permalink: /testgithub2
 share: true
 ---
 # Obsidian Notes
