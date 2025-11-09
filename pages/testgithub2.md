@@ -1,4 +1,7 @@
 ---
+layout: page
+title: "PAGE-TITLE"
+permalink: /URL-PATH
 share: true
 ---
 # Obsidian Notes
