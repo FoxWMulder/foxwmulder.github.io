@@ -1,5 +1,5 @@
 ---
 title: 1234
-permalink: /Untitled/abc3
+permalink: /test/Untitled/abc3
 share: true
 ---
