@@ -7,7 +7,7 @@ share: true
 # Obsidian Notes
 
 Publish your public notes with MkDocs
-
+[123](Untitled/123.md)
 ## Hello World!
 
 The `index.md` in the `/docs` folder is the homepage you see here.
