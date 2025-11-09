@@ -1,6 +1,6 @@
 ---
 title: 1234
-permalink: abc2
+permalink: test/Untitled/abc2.md
 share: true
 ---
-sfdg1wfrrtd
+sfdg1wfrrtd555
