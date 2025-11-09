@@ -3,6 +3,6 @@ share: true
 ---
 
 test1
-![](_attachments/Pasted%20image%2020251109231811.png)
-Enveloppe
+[Open: Pasted image 20251109232148.png](_attachments/test1/5fcc4d902b6055145ab576f17e42922f_MD5.jpg)
+![](_attachments/test1/5fcc4d902b6055145ab576f17e42922f_MD5.jpg)
 dsgfd
