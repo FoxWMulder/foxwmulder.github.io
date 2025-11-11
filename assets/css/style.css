@@ -9,7 +9,7 @@
     --dark: #404040;
     --moredark: #000;
     --link: royalblue;
-    border-top: 5px solid var(--dark);
+    /* border-top: 5px solid var(--dark); */
     line-height: 1.5em;
     font-family: system-ui, sans-serif;
     font-size: 16px;
@@ -40,6 +40,7 @@ pre {
 
 code {
     background-color: var(--lesslight);
+    white-space: break-spaces;
 }
 
 blockquote {
