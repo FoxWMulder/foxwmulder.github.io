@@ -186,3 +186,41 @@ input.center {
         display: none;
     }
 }
+
+code.language-ad-quo, code.language-ad-desc, code.language-ad-code, code.language-ad-result, code.language-ad-remark, code.language-ad-simcom, code.language-ad-seealso {
+    display: block;
+    padding-left: 10px;
+    border-left-width: 4px;
+    border-right-width: 0px;
+    border-top-width: 0px;
+    border-bottom-width: 0px;
+    border-style: solid;
+}
+
+code.language-ad-quo {    
+    border-color:  #7D7D7D;
+}
+
+code.language-ad-desc {    
+    border-color:  #E0C403;
+}
+
+code.language-ad-code {    
+    border-color:  #199D15;
+}
+
+code.language-ad-result {  
+    border-color:  #199D15;   
+}
+
+code.language-ad-remark {  
+    border-color:  #E40C00;   
+}
+
+code.language-ad-simcom {        
+    border-color:  #4242A4;   
+}
+
+code.language-ad-seealso {   
+    border-color:  #4242A4;   
+}
