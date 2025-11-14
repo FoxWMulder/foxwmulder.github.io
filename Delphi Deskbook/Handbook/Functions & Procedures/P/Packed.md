@@ -2,7 +2,7 @@
 Share: true
 ---
 
-#delphi/keywords 
+
 
 URL: http://www.delphibasics.ru/Packed.php
 Local copy: 
