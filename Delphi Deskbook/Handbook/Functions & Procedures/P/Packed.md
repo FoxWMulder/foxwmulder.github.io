@@ -1,10 +1,13 @@
 ---
+Source:
+  - http://www.delphibasics.ru/Packed.php
+Tags:
+  - delphi/keywords
 Share: true
 ---
 
+[Navigation - P](../Navigation/P)
 
-
-URL: http://www.delphibasics.ru/Packed.php
 Local copy: 
 
 ```ad-desc
