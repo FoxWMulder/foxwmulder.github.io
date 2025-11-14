@@ -5,12 +5,8 @@ Tags:
   - delphi/keywords
 Share: true
 ---
-```ad-seealso
 
-[Navigation - P](../_Navigation/P.md)
-1
-
-```
+➡️ [Navigation - P](../Navigation/P)
 
 Local copy: 
 
