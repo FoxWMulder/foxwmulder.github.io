@@ -32,8 +32,12 @@ Share: true
 | Тип            | [PString](../P/PString)                     | Указатель на String значение                                                   |
 | Функция        | [PtInRect](../P/PtInRect)                   | Проверяет, находится ли **точка** в пределах **прямоугольника**                |
 | Деректива      | [Public](../P/Public)                       | Начинает внешне доступный раздел класса                                        |
+| Деректива      | [Published](../P/Published)                 | Начинается изданный, внешне доступный раздел класса                            |
+| Тип            | [PVariant](../P/PVariant)                   | Указатель на значение Variant                                                  |
+| Тип            | [PWideChar](../P/PWideChar)                 | Указатель на PWideChar                                                         |
+| Тип            | [PWideString](../P/PWideString)             | Указатель на значение WideString                                               | 
 |                |                                                |                                                                                |
-|                |                                                |                                                                                |
+
 
 
 
