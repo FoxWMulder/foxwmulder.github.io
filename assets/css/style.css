@@ -172,8 +172,8 @@ input.center {
     }
     /* This fixes an odd blue then white shadow on FF in dark mode */
     *:focus {
-        outline: var(--light);
-        box-shadow: 0 0 0 .25em var(--link);
+        /*outline: var(--light);*/
+        /*box-shadow: 0 0 0 .25em var(--link);*/
     }
     .button a {
         color: var(--light);
