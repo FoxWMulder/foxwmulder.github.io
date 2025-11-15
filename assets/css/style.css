@@ -228,3 +228,8 @@ code.language-ad-seealso {
 section#footerinfo {
     text-align: center;
 }
+
+.hFooter { /* это распорка в основном блоке - резервируем место для подвала */
+height: 125px; /* высота нашего подвала */
+border: 0px solid #FFFFFF;
+}
