@@ -224,3 +224,7 @@ code.language-ad-simcom {
 code.language-ad-seealso {   
     border-color:  #4242A4;   
 }
+
+section#footerinfo {
+    text-align: center;
+}
