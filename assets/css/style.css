@@ -233,3 +233,8 @@ section#footerinfo {
 height: 125px; /* высота нашего подвала */
 border: 0px solid #FFFFFF;
 }
+
+#homelinks{
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
