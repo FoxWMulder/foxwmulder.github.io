@@ -242,3 +242,13 @@ border: 0px solid #FFFFFF;
 #homelinks a {
     text-decoration: none;
 }
+
+#homelinks a {
+    padding-right: 10px;
+}
+
+#homelinks a:nth-child(2) {
+    padding-top: 5px;
+    display: inline-block;
+    position: absolute;
+}
