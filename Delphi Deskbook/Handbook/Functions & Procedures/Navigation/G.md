@@ -7,6 +7,8 @@ Share: true
 | Функция        | [GetCurrentDir](../G/GetCurrentDir)                             | Возвращает текущий каталог (диск плюс каталог)                 |  
 | Процедура      | [GetDir](../G/GetDir)                                           | Получает текущий каталог (диск плюс путь) для указанного диска |  
 | Функция        | [GetDirectories](../G/GetDirectories)                           | Получение списка каталогов в директории                        |  
+| Функция        | [GetFileAttributes](../G/GetFileAttributes)                     | Получение атрибутов для определенного файла или папки          |  
+| Функция        | [GetFileAttributesEx](../G/GetFileAttributesEx)                 | Получение атрибутов для определенного файла или папки          |  
 | Функция        | [GetFileNameWithoutExtension](../G/GetFileNameWithoutExtension) | Get file name without extension                                |  
 | Функция        | [GetFiles](../G/GetFiles)                                       | Получение списка файлов в директории                           |  
 | Функция        | [GetHomePath](../G/GetHomePath)                                 | Возвращает домашний путь пользователя                          |  
