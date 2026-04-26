@@ -8,7 +8,8 @@ Share: true
   
 ➡️ [Navigation - P](../Navigation/P)  
   
-Local copy:   
+/^Local copy:*(?:?  
+)?/gm   
   
 ```ad-desc  
 collapse: none  
