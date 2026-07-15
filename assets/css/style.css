@@ -71,6 +71,10 @@ img {
     height: auto;
 }
 
+table td {
+    vertical-align: top;
+}
+
 button, .button, input[type=submit] {
     display: inline-block;
     background-color: var(--dark);
