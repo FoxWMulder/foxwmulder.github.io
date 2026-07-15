@@ -21,7 +21,7 @@ Share: true
 | ![](attachments/Pasted%20image-2026-07-15%2014-03-12-909.png) | С помощью данных фильтров можно затенить (уменьшить яркость) веб-страницы. |  
   
   
-Автор: Fox Mulder | Версия: build 2 (20240217) | [Скачать последнию версию (build 2)](https://github.com/FoxWMulder/vivaldipagebrightness) |   
+Автор: Fox Mulder | Версия: build 2 (20240217) | [Скачать последнию версию (build 2)](https://github.com/FoxWMulder/vivaldi-pagebrightness) |   
   
 ### Поворот вертикального видео на YouTube  
   
@@ -29,4 +29,4 @@ Share: true
 | ----------------------------------------------------- | -------------------------------------------------------------------------- |  
 | ![](attachments/Pasted%20image-2026-07-15%2014-03-13-660.png) | С помощью данных фильтров можно затенить (уменьшить яркость) веб-страницы. |  
   
-Автор: Fox Mulder | Версия: build 2 (20240217)  | [Скачать последнию версию (build 2)](https://github.com/FoxWMulder/vivaldirotateverticalyoutubevideo)  
+Автор: Fox Mulder | Версия: build 2 (20240217)  | [Скачать последнию версию (build 2)](https://github.com/FoxWMulder/vivaldi-rotateverticalyoutubevideo)  
