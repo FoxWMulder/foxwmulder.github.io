@@ -14,6 +14,7 @@ Share: true
 | Функция        | [GetHomePath](../G/GetHomePath)                                 | Возвращает домашний путь пользователя                          |  
 | Функция        | [GetLastError](../G/GetLastError)                               | Выдаёт код ошибки последнего неудачного Windows API вызова     |  
 | Процедура      | [GetLocaleFormatSettings](../G/GetLocaleFormatSettings)         | Получает региональные значения для безопасных потоков функций  |  
+| Функция        | [GetLongPathName](../G/GetLongPathName)                         | Преобразование короткого имени (8.3) в длинное                 |   
 | Функция        | [GetMem](../G/GetMem)                                           | Получает указанное число байтов памяти                         |  
 | Функция        | [GetParentDirectory](../G/GetParentDirectory)                   | Получение пути к директории уровнем выше                       |  
 | Ключевое слово | [Goto](../G/Goto)                                               | Вызывает скачок к метке, независимо от вложения                |  
