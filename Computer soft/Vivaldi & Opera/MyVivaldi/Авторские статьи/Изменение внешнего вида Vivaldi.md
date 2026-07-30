@@ -1,7 +1,7 @@
 ---
 Type of note:
 Category:
-title:
+title: Изменение внешнего вида Vivaldi
 Source:
 Tags:
 Share: true
